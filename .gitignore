@@ -4,3 +4,5 @@ test.py
 tracking_test.json
 tracking_test_2.json
 uv.lock
+pyproject.toml
+__pycache__
